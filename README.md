@@ -1,16 +1,24 @@
-### Hi there 👋
+## !Hi there 👋¡
+### I’m Daniel Fernando🐹
+### I’m 11 years old🎂
 
-<!--
-**bunyCode/bunycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my page
+- 🌱 I’m currently learning React
+- 💬 Ask me about everything you want
 
-Here are some ideas to get you started:
+```javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const tecnologies = ["HTML","CSS","JavaScript"];
+const frameworks = ["React", "Astro", "Svelte", "TailwindCSS"]
+funcion fullName (){
+  const allName = {
+    name: "Daniel "
+    lastName : "Reyes"
+  }
+  console.log(allName.name + allName.lastName) // Daniel Reyes🐹
+}
+```
+
+  
+
+
