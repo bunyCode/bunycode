@@ -1,21 +1,21 @@
-## !Hi there 👋¡
-### I’m Daniel Fernando🐹
-### I’m 11 years old🎂
+## !Hola 👋¡
+### Soy Daniel Fernando🐹
+### Tengo 11 años de edad🎂
 
-- 🔭 I’m currently working on my page
-- 🌱 I’m currently learning React
+- 🔭 Estoy actualmente trabajando en un proyecto personal
+- 🌱 Estoy actualmente aprendiendo React
 - 💬 Ask me about everything you want
 
 ```javascript
 
-const tecnologies = ["HTML","CSS","JavaScript"];
+const tecnologias = ["HTML","CSS","JavaScript"];
 const frameworks = ["React", "Astro", "Svelte", "TailwindCSS"]
-funcion fullName (){
+funcion NombreCompleto (){
   const allName = {
-    name: "Daniel "
-    lastName : "Reyes"
+    name: "Daniel Fernando"
+    lastName : "Reyes Vasquez"
   }
-  console.log(allName.name + allName.lastName) // Daniel Reyes🐹
+  console.log(`${allName.name}` ${allName.lastName}) // Daniel Fernando Reyes Vasquez🐹
 }
 ```
 
