@@ -1,23 +1,28 @@
-## !Hi there 👋¡
-### I’m Daniel Fernando🐹
-### I’m 11 years old🎂
+## Hola 🤚!
+### Soy Daniel Fernando Reyes Vasquez 👨‍💻
+### Soy un desarrollador Frontend 🚀
+### Tengo 11 años 🎂
+### Vivo en Colombia 🏬
 
-- 🔭 I’m currently working on my page
-- 🌱 I’m currently learning React
-- 💬 Ask me about everything you want
-
+- Estoy Aprendiendo React 🎉
+- Estoy trabajando en un proyecto personal 🧸
+  
 ```javascript
-
-const tecnologies = ["HTML","CSS","JavaScript"];
-const frameworks = ["React", "Astro", "Svelte", "TailwindCSS"]
-funcion fullName (){
-  const allName = {
-    name: "Daniel "
-    lastName : "Reyes"
-  }
-  console.log(allName.name + allName.lastName) // Daniel Reyes🐹
-}
+let tecnologias = ["HTML", "CSS", "Javascript"]
+let frameworks = ["React", "Tailwind", "Astro", "Svelte", "Sass"]
+let tengo = ["Una mascota", "Un computador IdeaPad", "Un escritorio grande"]
+let meGusta = ["Futbol", "Programar", "Correr"]
 ```
+
+
+
+
+
+
+
+
+
+
 
   
 
